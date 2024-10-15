@@ -6,4 +6,3 @@
 "paste_path":存档本地备份位置，一般填绝对路径，默认在此目录下的"backups"文件夹内.
 
 此工具是用python写的，源码在此目录下的demo.py中可看。
-![   !Uploading image.png…]()
